@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm QRH
 
-<!--
-**SorrowSquirrel/SorrowSquirrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 关于我
+- 🎓 大学：计算机科学与技术专业，大二
+- 💻 技能：掌握 C / C++，了解数据结构、MySQL、Linux 基础命令，正在深入后端开发
+- 🎬 兴趣爱好：美剧、音乐、健身、探索新技术
+- 🌍 目标：未来希望能在海外从事计算机相关工作
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📸 有趣的瞬间
+- 🚀 第一次写出一个多人聊天室程序，看到它在命令行跑起来时超级兴奋  
+- 🎧 深夜写代码时常常循环播放 *Someone You Loved*  
+- 😂 假期和朋友通宵讨论《星际穿越》里的物理设定，差点怀疑人生  
+
+![Coding Life](https://picsum.photos/600/200)  
+*（这里放一张你喜欢的图片，可以换成自己相关的截图或照片）*
+
+---
+
+## ❓ 我想弄懂的 5 个问题
+1. 软件工程中 **需求分析** 如何避免遗漏？  
+2. **敏捷开发 (Agile Development)** 的核心价值是什么？  
+3. 团队协作时如何高效使用 **Git / GitHub**？  
+4. **测试驱动开发 (TDD, Test-Driven Development)** 在实际项目里怎么落地？  
+5. 如何在保证质量的同时提升开发效率？  
+
+---
+
+## 🎯 我想收获的东西
+- 对软件工程开发流程的系统理解  
+- 团队协作和沟通的实践经验  
+- 不止会写代码，还能具备工程思维  
+- 对复杂项目的整体把控能力  
+- 一份更专业的项目展示  
+
+---
+⭐️ *Thanks for visiting my page! Feel free to connect with me!*
